@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6285c0d7-8073-4113-aae1-d27a734a585a" name="Default" comment="first">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThreadLocal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build_in_module_base64.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build_in_module_collections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build_in_module_hashlib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build_in_module_itertools.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distributedProcess.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/error_exception.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/io.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multi_processing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multi_threading.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/regularExpression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmanager.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskworker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email_SMTP.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tcp_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tcp_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tcp_sina.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udp_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udp_server.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/liaoxuefengLearnPython.iml" afterPath="$PROJECT_DIR$/.idea/liaoxuefengLearnPython.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/regularExpression.py" afterPath="$PROJECT_DIR$/regularExpression.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,13 +26,68 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="html.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html.py">
+      <file leaf-file-name="web.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/web.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="660">
+              <caret line="1072" column="49" lean-forward="true" selection-start-line="1072" selection-start-column="49" selection-end-line="1072" selection-end-column="71" />
               <folding>
-                <element signature="e#24#57#0" expanded="true" />
+                <element signature="e#314#780#0" expanded="false" />
+                <element signature="e#1066#2394#0" expanded="false" />
+                <element signature="e#1066#1673#1" expanded="false" />
+                <element signature="e#2566#4045#0" expanded="false" />
+                <element signature="e#4297#5042#0" expanded="false" />
+                <element signature="e#5363#6099#0" expanded="false" />
+                <element signature="e#6147#6706#0" expanded="false" />
+                <element signature="e#6785#6964#0" expanded="false" />
+                <element signature="e#6990#7173#0" expanded="false" />
+                <element signature="e#7196#7368#0" expanded="false" />
+                <element signature="e#7390#7561#0" expanded="false" />
+                <element signature="e#7583#7752#0" expanded="false" />
+                <element signature="e#7779#7973#0" expanded="false" />
+                <element signature="e#8003#8252#0" expanded="false" />
+                <element signature="e#8279#8513#0" expanded="false" />
+                <element signature="e#8543#8915#0" expanded="false" />
+                <element signature="e#9053#9385#0" expanded="false" />
+                <element signature="e#9429#9571#0" expanded="false" />
+                <element signature="e#9610#9870#0" expanded="false" />
+                <element signature="e#9911#10079#0" expanded="false" />
+                <element signature="e#10221#10626#0" expanded="false" />
+                <element signature="e#10648#11024#0" expanded="false" />
+                <element signature="e#11217#12226#0" expanded="false" />
+                <element signature="e#12253#13001#0" expanded="false" />
+                <element signature="e#13104#13331#0" expanded="false" />
+                <element signature="e#13368#14106#0" expanded="false" />
+                <element signature="e#14214#14485#0" expanded="false" />
+                <element signature="e#14703#15160#0" expanded="false" />
+                <element signature="e#15200#15423#0" expanded="false" />
+                <element signature="e#15465#16978#0" expanded="false" />
+                <element signature="e#17046#17570#0" expanded="false" />
+                <element signature="e#17605#18129#0" expanded="false" />
+                <element signature="e#18190#18924#0" expanded="false" />
+                <element signature="e#18958#19273#0" expanded="false" />
+                <element signature="e#19324#19575#0" expanded="false" />
+                <element signature="e#19628#19880#0" expanded="false" />
+                <element signature="e#19932#20232#0" expanded="false" />
+                <element signature="e#20279#20686#0" expanded="false" />
+                <element signature="e#20740#21074#0" expanded="false" />
+                <element signature="e#21141#21364#0" expanded="false" />
+                <element signature="e#21408#21643#0" expanded="false" />
+                <element signature="e#21681#22043#0" expanded="false" />
+                <element signature="e#22112#22618#0" expanded="false" />
+                <element signature="e#22672#23277#0" expanded="false" />
+                <element signature="e#23315#23714#0" expanded="false" />
+                <element signature="e#23761#24093#0" expanded="false" />
+                <element signature="e#24173#24609#0" expanded="false" />
+                <element signature="e#24844#25577#0" expanded="false" />
+                <element signature="e#25615#26026#0" expanded="false" />
+                <element signature="e#26070#26475#0" expanded="false" />
+                <element signature="e#26534#26938#0" expanded="false" />
+                <element signature="e#26990#27346#0" expanded="false" />
+                <element signature="e#27711#27958#0" expanded="false" />
+                <element signature="e#28032#28356#0" expanded="false" />
+                <marker date="1505834052057" expanded="false" signature="14520:24609" ph="..." />
+                <marker date="1505834052057" expanded="false" signature="27407:27657" ph="..." />
               </folding>
             </state>
           </provider>
@@ -51,26 +102,31 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>创新办</find>
+      <find>DEFAULT_DICT_NAME</find>
+      <find>小明</find>
+      <find>_profiling</find>
+      <find>description</find>
+      <find>transaction</find>
+      <find>transactions</find>
+      <find>find_by_pk</find>
+      <find>WARNING:root:NOTE: change primary key to non-updatable.</find>
+      <find>change primary key to non-updatable</find>
+      <find>test</find>
+      <find>_build_regex</find>
+      <find>var_list</find>
+      <find>__web_route__</find>
+      <find>Route</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/helloworld.py" />
-        <option value="$PROJECT_DIR$/list.py" />
-        <option value="$PROJECT_DIR$/tuple.py" />
-        <option value="$PROJECT_DIR$/if.py" />
-        <option value="$PROJECT_DIR$/for.py" />
-        <option value="$PROJECT_DIR$/dict.py" />
-        <option value="$PROJECT_DIR$/set.py" />
-        <option value="$PROJECT_DIR$/function.py" />
-        <option value="$PROJECT_DIR$/advanced_features.py" />
-        <option value="$PROJECT_DIR$/advanced_features.py" />
-        <option value="$PROJECT_DIR$/filter.py" />
-        <option value="$PROJECT_DIR$/sorted.py" />
-        <option value="$PROJECT_DIR$/functionalProgramming.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/xxx.py" />
         <option value="$PROJECT_DIR$/hello.py" />
         <option value="$PROJECT_DIR$/oop.py" />
@@ -86,21 +142,50 @@
         <option value="$PROJECT_DIR$/distributedProcess.py" />
         <option value="$PROJECT_DIR$/taskmanager.py" />
         <option value="$PROJECT_DIR$/taskworker.py" />
-        <option value="$PROJECT_DIR$/regularExpression.py" />
         <option value="$PROJECT_DIR$/build_in_module.py" />
         <option value="$PROJECT_DIR$/build_in_module_base64.py" />
         <option value="$PROJECT_DIR$/build_in_module_hashlib.py" />
         <option value="$PROJECT_DIR$/build_in_module_itertools.py" />
         <option value="$PROJECT_DIR$/xml.py" />
         <option value="$PROJECT_DIR$/html.py" />
+        <option value="$PROJECT_DIR$/../retrieal/test.py" />
+        <option value="$PROJECT_DIR$/../retrieal/xxx.py" />
+        <option value="$PROJECT_DIR$/../retrieal/t.py" />
+        <option value="$PROJECT_DIR$/../jieba/test/userdict.txt" />
+        <option value="$PROJECT_DIR$/../retrieal/jieba/__init__.py" />
+        <option value="$PROJECT_DIR$/../retrieal/jieba/dict.txt" />
+        <option value="$PROJECT_DIR$/../retrieal/main_dev.py" />
+        <option value="$PROJECT_DIR$/../retrieal/terms.py" />
+        <option value="$PROJECT_DIR$/../tutorial/tutorial/settings.py" />
+        <option value="$PROJECT_DIR$/../tutorial/tutorial/items.py" />
+        <option value="$PROJECT_DIR$/../tutorial/tutorial/spiders/dmoz_spider.py" />
+        <option value="$PROJECT_DIR$/../coolscrapy/coolscrapy/items.py" />
+        <option value="$PROJECT_DIR$/../coolscrapy/coolscrapy/spiders/huxiu_spider.py" />
+        <option value="$PROJECT_DIR$/../coolscrapy/coolscrapy/pipelines.py" />
+        <option value="$PROJECT_DIR$/../coolscrapy/coolscrapy/settings.py" />
+        <option value="$PROJECT_DIR$/tcp_server.py" />
+        <option value="$PROJECT_DIR$/tcp_client.py" />
+        <option value="$PROJECT_DIR$/udp_client.py" />
+        <option value="$PROJECT_DIR$/udp_server.py" />
+        <option value="$PROJECT_DIR$/email_SMTP.py" />
+        <option value="$PROJECT_DIR$/mysql.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/templates/transwarp/db.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/__init__.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/orm.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/db.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/models.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/sql/schema.sql" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/test_db.py" />
+        <option value="$PROJECT_DIR$/regularExpression.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/web.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="687" />
+    <option name="x" value="960" />
     <option name="y" value="24" />
-    <option name="width" value="679" />
-    <option name="height" value="691" />
+    <option name="width" value="960" />
+    <option name="height" value="993" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -139,8 +224,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liaoxuefengLearnPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awesome-python-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="liaoxuefengLearnPython" />
@@ -153,14 +250,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/advanced_features.py" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/web.py" />
     <property name="last.edited.regexp" value="010-12345" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp" />
+      <recent name="$PROJECT_DIR$/../retrieal" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,55 +275,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.html">
-    <configuration default="false" name="xml" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xml.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="html" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/html.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.web.py">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test1" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -275,525 +340,27 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="ThreadLocal" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThreadLocal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="build_in_module" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_in_module_collections.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="build_in_module_base64" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_in_module_base64.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="build_in_module_hashlib" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_in_module_hashlib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="build_in_module_itertools" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_in_module_itertools.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="error_exception" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/error_exception.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="io" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/io.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="multi_processing" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_processing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="multi_threading" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_threading.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="regularExpression" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regularExpression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="taskmanager" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taskmanager.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="oop_advanced" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop_advanced.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in test.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="_new_pattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="functionalProgramming" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionalProgramming.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="advanced_features" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_features.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="dict" type="PythonConfigurationType" factoryName="Python">
+    <configuration default="false" name="web.py" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict.py" />
+      <module name="coolscrapy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/web.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="function" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="set" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="home/lzc/PycharmProjects/liaoxuefengLearnPython" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="if" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="list" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="helloworld" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="tuple" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="for" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in hello.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="_new_pattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/hello.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="filter" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sorted" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorted.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="oop" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liaoxuefengLearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <list size="29">
-      <item index="0" class="java.lang.String" itemvalue="Python.ThreadLocal" />
-      <item index="1" class="java.lang.String" itemvalue="Python.build_in_module" />
-      <item index="2" class="java.lang.String" itemvalue="Python.build_in_module_base64" />
-      <item index="3" class="java.lang.String" itemvalue="Python.build_in_module_hashlib" />
-      <item index="4" class="java.lang.String" itemvalue="Python.build_in_module_itertools" />
-      <item index="5" class="java.lang.String" itemvalue="Python.error_exception" />
-      <item index="6" class="java.lang.String" itemvalue="Python.io" />
-      <item index="7" class="java.lang.String" itemvalue="Python.multi_processing" />
-      <item index="8" class="java.lang.String" itemvalue="Python.multi_threading" />
-      <item index="9" class="java.lang.String" itemvalue="Python.regularExpression" />
-      <item index="10" class="java.lang.String" itemvalue="Python.taskmanager" />
-      <item index="11" class="java.lang.String" itemvalue="Python.oop_advanced" />
-      <item index="12" class="java.lang.String" itemvalue="Python tests.Unittests in test.py" />
-      <item index="13" class="java.lang.String" itemvalue="Python.functionalProgramming" />
-      <item index="14" class="java.lang.String" itemvalue="Python.advanced_features" />
-      <item index="15" class="java.lang.String" itemvalue="Python.dict" />
-      <item index="16" class="java.lang.String" itemvalue="Python.function" />
-      <item index="17" class="java.lang.String" itemvalue="Python.set" />
-      <item index="18" class="java.lang.String" itemvalue="Python.if" />
-      <item index="19" class="java.lang.String" itemvalue="Python.list" />
-      <item index="20" class="java.lang.String" itemvalue="Python.helloworld" />
-      <item index="21" class="java.lang.String" itemvalue="Python.tuple" />
-      <item index="22" class="java.lang.String" itemvalue="Python.for" />
-      <item index="23" class="java.lang.String" itemvalue="Python tests.Unittests in hello.py" />
-      <item index="24" class="java.lang.String" itemvalue="Python.filter" />
-      <item index="25" class="java.lang.String" itemvalue="Python.sorted" />
-      <item index="26" class="java.lang.String" itemvalue="Python.oop" />
-      <item index="27" class="java.lang.String" itemvalue="Python.xml" />
-      <item index="28" class="java.lang.String" itemvalue="Python.html" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.web.py" />
     </list>
-    <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.html" />
-        <item index="1" class="java.lang.String" itemvalue="Python.xml" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -817,24 +384,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_hello_py - 2017.09.04 at 14h 22m 50s.xml">
-      <configuration name="Unittests in hello.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_hello_py - 2017.09.04 at 14h 23m 32s.xml">
-      <configuration name="Unittests in hello.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_hello_py - 2017.09.04 at 14h 44m 26s.xml">
-      <configuration name="Unittests in hello.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_hello_py - 2017.09.04 at 14h 48m 15s.xml">
-      <configuration name="Unittests in hello.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_hello_py - 2017.09.04 at 14h 48m 42s.xml">
-      <configuration name="Unittests in hello.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_hello_py - 2017.09.04 at 14h 50m 29s.xml">
-      <configuration name="Unittests in hello.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_hello_py - 2017.09.04 at 14h 50m 35s.xml">
       <configuration name="Unittests in hello.py" configurationId="tests" />
     </history-entry>
@@ -844,30 +393,59 @@
     <history-entry file="Unittests_in_test_py - 2017.09.04 at 14h 43m 59s.xml">
       <configuration name="Unittests in test.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.09.06 at 21h 15m 43s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.09.06 at 21h 16m 48s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.09.06 at 21h 17m 29s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.09.06 at 21h 19m 38s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py_(1) - 2017.09.06 at 21h 12m 32s.xml">
+      <configuration name="Unittests in test.py (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_userdict_py - 2017.09.06 at 22h 25m 51s.xml">
+      <configuration name="Unittests in test_userdict.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_userdict_py - 2017.09.06 at 22h 28m 43s.xml">
+      <configuration name="Unittests in test_userdict.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="687" y="24" width="679" height="691" extended-state="4" />
-    <editor active="true" />
+    <frame x="960" y="24" width="960" height="993" extended-state="4" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282313" sideWeight="0.50512445" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="787" y="124" width="479" height="491" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27891156" sideWeight="0.49487555" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34270832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32545045" sideWeight="0.50512445" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2713964" sideWeight="0.49487555" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29896906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39965987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282313" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="256" y="134" width="479" height="491" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -900,379 +478,419 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oop_advanced.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello.py">
+    <entry file="file://$PROJECT_DIR$/../jieba/test/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello.py">
+    <entry file="file://$PROJECT_DIR$/../jieba/test/test_userdict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jieba/test/userdict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jieba/jieba/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../retrieal/jieba/dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="171719" column="1" lean-forward="false" selection-start-line="171719" selection-start-column="0" selection-end-line="171719" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../retrieal/jieba/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-580">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../retrieal/main_dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../retrieal/terms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/for.py">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/scrapy/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.py">
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list.py">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/scrapy/spiders/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="68" column="8" lean-forward="false" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/if.py">
+    <entry file="file://$PROJECT_DIR$/../tutorial/www.dmoz.org">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for.py">
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dict.py">
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="398">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/set.py">
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="-680">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sorted.py">
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="180">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xxx.py" />
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/filter.py">
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/t0p-stackoverflow-questions.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello.py">
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/dmoz_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="122">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function.py">
+    <entry file="file://$PROJECT_DIR$/../coolscrapy/items.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2527">
-          <caret line="179" column="18" lean-forward="true" selection-start-line="179" selection-start-column="18" selection-end-line="179" selection-end-column="18" />
+        <state relative-caret-position="420">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oop.py">
+    <entry file="file://$PROJECT_DIR$/../coolscrapy/coolscrapy/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="150" column="1" lean-forward="true" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/__builtin__.pyi">
+    <entry file="file://$PROJECT_DIR$/../coolscrapy/coolscrapy/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235">
-          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../coolscrapy/coolscrapy/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../coolscrapy/coolscrapy/spiders/huxiu_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sina.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcp_sina.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcp_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcp_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udp_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udp_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email_SMTP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="29" column="64" lean-forward="false" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/templates/transwarp/db.py" />
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/mysql/connector/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1247972723/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="4528" column="8" lean-forward="false" selection-start-line="4528" selection-start-column="8" selection-end-line="4528" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="-2208">
+          <caret line="2503" column="6" lean-forward="false" selection-start-line="2503" selection-start-column="6" selection-end-line="2503" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="1017" column="0" lean-forward="false" selection-start-line="1017" selection-start-column="0" selection-end-line="1017" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="189">
+          <caret line="2756" column="8" lean-forward="false" selection-start-line="2756" selection-start-column="8" selection-end-line="2756" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/error_exception.py">
+    <entry file="file:///usr/lib/python2.7/dist-packages/mysql/connector/cursor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-1851">
+          <caret line="451" column="8" lean-forward="false" selection-start-line="451" selection-start-column="8" selection-end-line="451" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/sql/schema.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="126">
+          <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="177" column="19" lean-forward="false" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functionalProgramming.py">
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="169" column="18" lean-forward="true" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/advanced_features.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1540">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#15#47#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dump.txt">
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/orm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1247972723/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="588" column="6" lean-forward="false" selection-start-line="588" selection-start-column="6" selection-end-line="588" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/doctest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="1314" column="0" lean-forward="false" selection-start-line="1314" selection-start-column="0" selection-end-line="1314" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="209" column="8" lean-forward="false" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python2.7/json/encoder.py">
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/test_db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="269" column="0" lean-forward="false" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="540">
+          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="143" column="51" lean-forward="false" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python2.7/multiprocessing/process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="138" column="8" lean-forward="false" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThreadLocal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_processing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taskmanager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="e#28#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributedProcess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taskworker.py">
+    <entry file="file:///usr/lib/python2.7/cgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1720">
-          <caret line="86" column="22" lean-forward="true" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+          <caret line="394" column="8" lean-forward="false" selection-start-line="394" selection-start-column="8" selection-end-line="394" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/regularExpression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+        <state relative-caret-position="20">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python2.7/collections.py">
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/web.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="304" column="4" lean-forward="false" selection-start-line="304" selection-start-column="4" selection-end-line="304" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oop_advanced.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2457">
-          <caret line="227" column="7" lean-forward="false" selection-start-line="227" selection-start-column="7" selection-end-line="227" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build_in_module_collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1460">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build_in_module_base64.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build_in_module_hashlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build_in_module_itertools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python2.7/xml/parsers/expat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python2.7/xml/parsers/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="660">
+          <caret line="1072" column="49" lean-forward="true" selection-start-line="1072" selection-start-column="49" selection-end-line="1072" selection-end-column="71" />
           <folding>
-            <element signature="e#24#57#0" expanded="true" />
+            <element signature="e#314#780#0" expanded="false" />
+            <element signature="e#1066#2394#0" expanded="false" />
+            <element signature="e#1066#1673#1" expanded="false" />
+            <element signature="e#2566#4045#0" expanded="false" />
+            <element signature="e#4297#5042#0" expanded="false" />
+            <element signature="e#5363#6099#0" expanded="false" />
+            <element signature="e#6147#6706#0" expanded="false" />
+            <element signature="e#6785#6964#0" expanded="false" />
+            <element signature="e#6990#7173#0" expanded="false" />
+            <element signature="e#7196#7368#0" expanded="false" />
+            <element signature="e#7390#7561#0" expanded="false" />
+            <element signature="e#7583#7752#0" expanded="false" />
+            <element signature="e#7779#7973#0" expanded="false" />
+            <element signature="e#8003#8252#0" expanded="false" />
+            <element signature="e#8279#8513#0" expanded="false" />
+            <element signature="e#8543#8915#0" expanded="false" />
+            <element signature="e#9053#9385#0" expanded="false" />
+            <element signature="e#9429#9571#0" expanded="false" />
+            <element signature="e#9610#9870#0" expanded="false" />
+            <element signature="e#9911#10079#0" expanded="false" />
+            <element signature="e#10221#10626#0" expanded="false" />
+            <element signature="e#10648#11024#0" expanded="false" />
+            <element signature="e#11217#12226#0" expanded="false" />
+            <element signature="e#12253#13001#0" expanded="false" />
+            <element signature="e#13104#13331#0" expanded="false" />
+            <element signature="e#13368#14106#0" expanded="false" />
+            <element signature="e#14214#14485#0" expanded="false" />
+            <element signature="e#14703#15160#0" expanded="false" />
+            <element signature="e#15200#15423#0" expanded="false" />
+            <element signature="e#15465#16978#0" expanded="false" />
+            <element signature="e#17046#17570#0" expanded="false" />
+            <element signature="e#17605#18129#0" expanded="false" />
+            <element signature="e#18190#18924#0" expanded="false" />
+            <element signature="e#18958#19273#0" expanded="false" />
+            <element signature="e#19324#19575#0" expanded="false" />
+            <element signature="e#19628#19880#0" expanded="false" />
+            <element signature="e#19932#20232#0" expanded="false" />
+            <element signature="e#20279#20686#0" expanded="false" />
+            <element signature="e#20740#21074#0" expanded="false" />
+            <element signature="e#21141#21364#0" expanded="false" />
+            <element signature="e#21408#21643#0" expanded="false" />
+            <element signature="e#21681#22043#0" expanded="false" />
+            <element signature="e#22112#22618#0" expanded="false" />
+            <element signature="e#22672#23277#0" expanded="false" />
+            <element signature="e#23315#23714#0" expanded="false" />
+            <element signature="e#23761#24093#0" expanded="false" />
+            <element signature="e#24173#24609#0" expanded="false" />
+            <element signature="e#24844#25577#0" expanded="false" />
+            <element signature="e#25615#26026#0" expanded="false" />
+            <element signature="e#26070#26475#0" expanded="false" />
+            <element signature="e#26534#26938#0" expanded="false" />
+            <element signature="e#26990#27346#0" expanded="false" />
+            <element signature="e#27711#27958#0" expanded="false" />
+            <element signature="e#28032#28356#0" expanded="false" />
+            <marker date="1505834052057" expanded="false" signature="14520:24609" ph="..." />
+            <marker date="1505834052057" expanded="false" signature="27407:27657" ph="..." />
           </folding>
         </state>
       </provider>
