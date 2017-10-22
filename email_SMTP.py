@@ -26,8 +26,8 @@ def _format_addr(s):
 html = """
     <html>
     <body>
-    <h1>Hello</h1>
-    <p>send by <a href="http://www.python.org">Python</a> ...<p>
+    <h3>记得填写 Q & A 系统哦！</h3>
+    <p>点击 <a href="http://grid.hust.edu.cn/qa/index.jsp">QA 系统</a> ...</p>
     </body>
     </html>
 """
@@ -39,15 +39,23 @@ password = 'gbcvgbmsseeobfdd'
 # 输入SMTP服务器地址：
 smtp_server = 'smtp.qq.com'
 # 输入收件人地址：
-to_addr = 'codemasterlc@126.com'
+# to_addr = '515568924@qq.com'
+# to_addr = '1179903972@qq.com'
+to_addrs = [
+    # '515568924@qq.com',
+    # '1179903972@qq.com',
+    'codemasterlc@126.com',
+    'codinglzc@gmail.com',
+]
 
-msg['From'] = _format_addr(u'Python爱好者 <%s>' % from_addr)
-msg['To'] = _format_addr(u'管理员 <%s>' % to_addr)
-msg['Subject'] = Header(u'来自SMTP的问候……', 'utf-8').encode()
+msg['From'] = _format_addr(u'南六218实验室机器人 <%s>' % from_addr)
+# msg['From'] = _format_addr(u'南六218实验室机器人')
+msg['To'] = _format_addr(u'实验室成员 <%s>' % to_addrs)
+msg['Subject'] = Header(u'来自南六218实验室的温馨提示：QA系统提醒', 'utf-8').encode()
 
 # server = smtplib.SMTP(smtp_server, 25)  # SMTP协议默认端口是25
 server = smtplib.SMTP_SSL(smtp_server, 465)
 server.set_debuglevel(1)  # 打印和SMTP服务器交互的所有信息
 server.login(from_addr, password)  # 登录SMTP服务器
-server.sendmail(from_addr, [to_addr], msg.as_string())
+server.sendmail(from_addr, to_addrs, msg.as_string())
 server.quit()

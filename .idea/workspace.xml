@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6285c0d7-8073-4113-aae1-d27a734a585a" name="Default" comment="first">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email_SMTP.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sina.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tcp_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tcp_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tcp_sina.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udp_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udp_server.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/liaoxuefengLearnPython.iml" afterPath="$PROJECT_DIR$/.idea/liaoxuefengLearnPython.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/regularExpression.py" afterPath="$PROJECT_DIR$/regularExpression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/email_SMTP.py" afterPath="$PROJECT_DIR$/email_SMTP.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,69 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="web.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/web.py">
+      <file leaf-file-name="email_SMTP.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/email_SMTP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="1072" column="49" lean-forward="true" selection-start-line="1072" selection-start-column="49" selection-end-line="1072" selection-end-column="71" />
-              <folding>
-                <element signature="e#314#780#0" expanded="false" />
-                <element signature="e#1066#2394#0" expanded="false" />
-                <element signature="e#1066#1673#1" expanded="false" />
-                <element signature="e#2566#4045#0" expanded="false" />
-                <element signature="e#4297#5042#0" expanded="false" />
-                <element signature="e#5363#6099#0" expanded="false" />
-                <element signature="e#6147#6706#0" expanded="false" />
-                <element signature="e#6785#6964#0" expanded="false" />
-                <element signature="e#6990#7173#0" expanded="false" />
-                <element signature="e#7196#7368#0" expanded="false" />
-                <element signature="e#7390#7561#0" expanded="false" />
-                <element signature="e#7583#7752#0" expanded="false" />
-                <element signature="e#7779#7973#0" expanded="false" />
-                <element signature="e#8003#8252#0" expanded="false" />
-                <element signature="e#8279#8513#0" expanded="false" />
-                <element signature="e#8543#8915#0" expanded="false" />
-                <element signature="e#9053#9385#0" expanded="false" />
-                <element signature="e#9429#9571#0" expanded="false" />
-                <element signature="e#9610#9870#0" expanded="false" />
-                <element signature="e#9911#10079#0" expanded="false" />
-                <element signature="e#10221#10626#0" expanded="false" />
-                <element signature="e#10648#11024#0" expanded="false" />
-                <element signature="e#11217#12226#0" expanded="false" />
-                <element signature="e#12253#13001#0" expanded="false" />
-                <element signature="e#13104#13331#0" expanded="false" />
-                <element signature="e#13368#14106#0" expanded="false" />
-                <element signature="e#14214#14485#0" expanded="false" />
-                <element signature="e#14703#15160#0" expanded="false" />
-                <element signature="e#15200#15423#0" expanded="false" />
-                <element signature="e#15465#16978#0" expanded="false" />
-                <element signature="e#17046#17570#0" expanded="false" />
-                <element signature="e#17605#18129#0" expanded="false" />
-                <element signature="e#18190#18924#0" expanded="false" />
-                <element signature="e#18958#19273#0" expanded="false" />
-                <element signature="e#19324#19575#0" expanded="false" />
-                <element signature="e#19628#19880#0" expanded="false" />
-                <element signature="e#19932#20232#0" expanded="false" />
-                <element signature="e#20279#20686#0" expanded="false" />
-                <element signature="e#20740#21074#0" expanded="false" />
-                <element signature="e#21141#21364#0" expanded="false" />
-                <element signature="e#21408#21643#0" expanded="false" />
-                <element signature="e#21681#22043#0" expanded="false" />
-                <element signature="e#22112#22618#0" expanded="false" />
-                <element signature="e#22672#23277#0" expanded="false" />
-                <element signature="e#23315#23714#0" expanded="false" />
-                <element signature="e#23761#24093#0" expanded="false" />
-                <element signature="e#24173#24609#0" expanded="false" />
-                <element signature="e#24844#25577#0" expanded="false" />
-                <element signature="e#25615#26026#0" expanded="false" />
-                <element signature="e#26070#26475#0" expanded="false" />
-                <element signature="e#26534#26938#0" expanded="false" />
-                <element signature="e#26990#27346#0" expanded="false" />
-                <element signature="e#27711#27958#0" expanded="false" />
-                <element signature="e#28032#28356#0" expanded="false" />
-                <marker date="1505834052057" expanded="false" signature="14520:24609" ph="..." />
-                <marker date="1505834052057" expanded="false" signature="27407:27657" ph="..." />
-              </folding>
+            <state relative-caret-position="155">
+              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -119,6 +54,9 @@
       <find>var_list</find>
       <find>__web_route__</find>
       <find>Route</find>
+      <find>path_info</find>
+      <find>_build_interceptor_fn</find>
+      <find>add_interceptor</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,13 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/xxx.py" />
-        <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/oop.py" />
-        <option value="$PROJECT_DIR$/oop_advanced.py" />
-        <option value="$PROJECT_DIR$/error_exception.py" />
-        <option value="$PROJECT_DIR$/test.txt" />
-        <option value="$PROJECT_DIR$/test.txt.py" />
         <option value="$PROJECT_DIR$/io.py" />
         <option value="$PROJECT_DIR$/multi_processing.py" />
         <option value="$PROJECT_DIR$/multi_threading.py" />
@@ -167,25 +98,32 @@
         <option value="$PROJECT_DIR$/tcp_client.py" />
         <option value="$PROJECT_DIR$/udp_client.py" />
         <option value="$PROJECT_DIR$/udp_server.py" />
-        <option value="$PROJECT_DIR$/email_SMTP.py" />
         <option value="$PROJECT_DIR$/mysql.py" />
         <option value="$PROJECT_DIR$/../awesome-python-webapp/www/templates/transwarp/db.py" />
         <option value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/__init__.py" />
-        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/orm.py" />
         <option value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/db.py" />
         <option value="$PROJECT_DIR$/../awesome-python-webapp/www/models.py" />
         <option value="$PROJECT_DIR$/../awesome-python-webapp/sql/schema.sql" />
-        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/test_db.py" />
         <option value="$PROJECT_DIR$/regularExpression.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/test/jinja2-test.html" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/config_default.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/urls.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/templates/test_users.html" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/config_override.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/config.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/wsgiapp.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/orm.py" />
+        <option value="$PROJECT_DIR$/../awesome-python-webapp/www/test_db.py" />
         <option value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/web.py" />
+        <option value="$PROJECT_DIR$/email_SMTP.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="y" value="24" />
-    <option name="width" value="960" />
-    <option name="height" value="993" />
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1029" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -210,7 +148,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -223,39 +161,16 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="liaoxuefengLearnPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="awesome-python-webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="liaoxuefengLearnPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="liaoxuefengLearnPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/web.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awesome-python-webapp/www/test_db.py" />
     <property name="last.edited.regexp" value="010-12345" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -275,7 +190,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.web.py">
+  <component name="RunManager" selected="Python.email_SMTP">
+    <configuration default="false" name="wsgiapp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../awesome-python-webapp/www" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome-python-webapp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../awesome-python-webapp/www/wsgiapp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="orm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome-python-webapp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/orm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="email_SMTP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="liaoxuefengLearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/email_SMTP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,9 +327,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="test_db" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../awesome-python-webapp/www" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome-python-webapp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../awesome-python-webapp/www/test_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.web.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_db" />
+      <item index="2" class="java.lang.String" itemvalue="Python.wsgiapp" />
+      <item index="3" class="java.lang.String" itemvalue="Python.orm" />
+      <item index="4" class="java.lang.String" itemvalue="Python.email_SMTP" />
     </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.email_SMTP" />
+        <item index="1" class="java.lang.String" itemvalue="Python.wsgiapp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.orm" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -425,17 +423,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="24" width="960" height="993" extended-state="4" />
+    <frame x="-1" y="-11" width="1922" height="1029" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34270832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32545045" sideWeight="0.50512445" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2713964" sideWeight="0.49487555" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2529859" sideWeight="0.49487555" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278867" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282313" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3984799" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -448,6 +447,28 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32545045" sideWeight="0.50512445" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="256" y="134" width="479" height="491" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2529859" sideWeight="0.49487555" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278867" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282313" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -478,81 +499,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../jieba/test/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jieba/test/test_userdict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jieba/test/userdict.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jieba/jieba/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../retrieal/jieba/dict.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="171719" column="1" lean-forward="false" selection-start-line="171719" selection-start-column="0" selection-end-line="171719" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../retrieal/jieba/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-580">
-          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../retrieal/main_dev.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../retrieal/terms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tutorial/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/scrapy/item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -700,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email_SMTP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="29" column="64" lean-forward="false" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysql.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -757,34 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/sql/schema.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="177" column="19" lean-forward="false" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/orm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1247972723/datetime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -792,25 +708,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python2.7/doctest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="1314" column="0" lean-forward="false" selection-start-line="1314" selection-start-column="0" selection-end-line="1314" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="209" column="8" lean-forward="false" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/test_db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -818,80 +719,140 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="394" column="8" lean-forward="false" selection-start-line="394" selection-start-column="8" selection-end-line="394" selection-end-column="8" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="482" column="8" lean-forward="false" selection-start-line="482" selection-start-column="8" selection-end-line="482" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/doctest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1346">
+          <caret line="1314" column="0" lean-forward="false" selection-start-line="1314" selection-start-column="0" selection-end-line="1314" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/regularExpression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
+        <state relative-caret-position="260">
           <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="15" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/test/jinja2-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/templates/test_users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/config_default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/config_override.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/orm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="389" column="56" lean-forward="false" selection-start-line="389" selection-start-column="56" selection-end-line="389" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/test_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="69" lean-forward="false" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="130" column="27" lean-forward="true" selection-start-line="130" selection-start-column="27" selection-end-line="130" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/sql/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/wsgiref/simple_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="146" column="4" lean-forward="false" selection-start-line="146" selection-start-column="4" selection-end-line="146" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/SocketServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="224" column="30" lean-forward="false" selection-start-line="224" selection-start-column="30" selection-end-line="224" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/transwarp/web.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="1072" column="49" lean-forward="true" selection-start-line="1072" selection-start-column="49" selection-end-line="1072" selection-end-column="71" />
-          <folding>
-            <element signature="e#314#780#0" expanded="false" />
-            <element signature="e#1066#2394#0" expanded="false" />
-            <element signature="e#1066#1673#1" expanded="false" />
-            <element signature="e#2566#4045#0" expanded="false" />
-            <element signature="e#4297#5042#0" expanded="false" />
-            <element signature="e#5363#6099#0" expanded="false" />
-            <element signature="e#6147#6706#0" expanded="false" />
-            <element signature="e#6785#6964#0" expanded="false" />
-            <element signature="e#6990#7173#0" expanded="false" />
-            <element signature="e#7196#7368#0" expanded="false" />
-            <element signature="e#7390#7561#0" expanded="false" />
-            <element signature="e#7583#7752#0" expanded="false" />
-            <element signature="e#7779#7973#0" expanded="false" />
-            <element signature="e#8003#8252#0" expanded="false" />
-            <element signature="e#8279#8513#0" expanded="false" />
-            <element signature="e#8543#8915#0" expanded="false" />
-            <element signature="e#9053#9385#0" expanded="false" />
-            <element signature="e#9429#9571#0" expanded="false" />
-            <element signature="e#9610#9870#0" expanded="false" />
-            <element signature="e#9911#10079#0" expanded="false" />
-            <element signature="e#10221#10626#0" expanded="false" />
-            <element signature="e#10648#11024#0" expanded="false" />
-            <element signature="e#11217#12226#0" expanded="false" />
-            <element signature="e#12253#13001#0" expanded="false" />
-            <element signature="e#13104#13331#0" expanded="false" />
-            <element signature="e#13368#14106#0" expanded="false" />
-            <element signature="e#14214#14485#0" expanded="false" />
-            <element signature="e#14703#15160#0" expanded="false" />
-            <element signature="e#15200#15423#0" expanded="false" />
-            <element signature="e#15465#16978#0" expanded="false" />
-            <element signature="e#17046#17570#0" expanded="false" />
-            <element signature="e#17605#18129#0" expanded="false" />
-            <element signature="e#18190#18924#0" expanded="false" />
-            <element signature="e#18958#19273#0" expanded="false" />
-            <element signature="e#19324#19575#0" expanded="false" />
-            <element signature="e#19628#19880#0" expanded="false" />
-            <element signature="e#19932#20232#0" expanded="false" />
-            <element signature="e#20279#20686#0" expanded="false" />
-            <element signature="e#20740#21074#0" expanded="false" />
-            <element signature="e#21141#21364#0" expanded="false" />
-            <element signature="e#21408#21643#0" expanded="false" />
-            <element signature="e#21681#22043#0" expanded="false" />
-            <element signature="e#22112#22618#0" expanded="false" />
-            <element signature="e#22672#23277#0" expanded="false" />
-            <element signature="e#23315#23714#0" expanded="false" />
-            <element signature="e#23761#24093#0" expanded="false" />
-            <element signature="e#24173#24609#0" expanded="false" />
-            <element signature="e#24844#25577#0" expanded="false" />
-            <element signature="e#25615#26026#0" expanded="false" />
-            <element signature="e#26070#26475#0" expanded="false" />
-            <element signature="e#26534#26938#0" expanded="false" />
-            <element signature="e#26990#27346#0" expanded="false" />
-            <element signature="e#27711#27958#0" expanded="false" />
-            <element signature="e#28032#28356#0" expanded="false" />
-            <marker date="1505834052057" expanded="false" signature="14520:24609" ph="..." />
-            <marker date="1505834052057" expanded="false" signature="27407:27657" ph="..." />
-          </folding>
+        <state relative-caret-position="-225">
+          <caret line="1536" column="30" lean-forward="false" selection-start-line="1536" selection-start-column="16" selection-end-line="1536" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../awesome-python-webapp/www/wsgiapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email_SMTP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
